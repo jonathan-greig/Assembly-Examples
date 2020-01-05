@@ -1,0 +1,2 @@
+LIBRARY hello32dll
+EXPORTS sayhello

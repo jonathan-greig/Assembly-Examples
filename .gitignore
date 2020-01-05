@@ -1,0 +1,10 @@
+*.dll
+*.exp
+*.lib
+*.obj
+*.exe
+*.lnk
+
+*.o
+*.out
+
